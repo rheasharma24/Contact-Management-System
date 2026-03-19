@@ -12,7 +12,7 @@ This project allows users to store, manage, and organize contacts using basic da
 
 # Technologies Used 
 *Java
-ArrayList (for dynamic storage)
-Object-Oriented Programming (OOP) concepts
+*ArrayList (for dynamic storage)
+*Object-Oriented Programming (OOP) concepts
 
 This project is created for learning purposes and demonstrates basic Java programming and data structure usage.
